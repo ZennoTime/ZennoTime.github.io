@@ -1,0 +1,1 @@
+{"name":"ASDasd","email":"hellolloga@google.com","activities":"Дизайнер","agreement":true}
